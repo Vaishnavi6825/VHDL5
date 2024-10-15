@@ -42,11 +42,13 @@ module full_subtractor_behavioral(input a, input b, input bin, output reg diff, 
   end<br>
 endmodule<br>
 
-![WhatsApp Image 2024-10-15 at 17 54 11_31323d72](https://github.com/user-attachments/assets/31641ac1-6e1a-4bdd-a39d-568b8aa7bb64)
+![WhatsApp Image 2024-10-15 at 17 54 12_f0bb7821](https://github.com/user-attachments/assets/445e0b0d-4d57-4c00-8f82-186c555d01d8)
+
 
 `Output Waveform:`
 
-![WhatsApp Image 2024-10-15 at 17 50 51_aef18896](https://github.com/user-attachments/assets/aa07109b-42a9-42b2-9270-c7c49ba863bf)
+![WhatsApp Image 2024-10-15 at 17 50 52_5f1514d2](https://github.com/user-attachments/assets/0712044e-bd1a-4c82-a36c-94f3ce21caf1)
+
 
 `Result:`
 
